@@ -1,3 +1,5 @@
+cd ~/Downloads
+wget https://www.dropbox.com/s/5wiobmk45n3uonu/PaperMinecraft-RPI.zip
 unzip ~/Downloads/PaperMinecraft-RPI.zip
 mv ~/Downloads/PaperMinecraft-RPI ~/ 
 wget https://raw.githubusercontent.com/mobilegmYT/armv7l-paper-minecraft/main/minecraft-2d.desktop 
