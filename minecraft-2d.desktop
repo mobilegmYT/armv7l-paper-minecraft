@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Minecraft 2D
+Comment=2D minecraft by griffpatch on Scratch
+Icon=/home/pi/Pictures/Icons/mc2d.jpeg
+Exec=/home/pi/Documents/Programs/PaperMinecraft-RPI/nw --use-gl=egl --ignore-gpu-blacklist --disable-accelerated-2d-canvas --num-raster-threads=4
+Actions=
+Categories=Game;
+Path=
+Terminal=false
+StartupNotify=true
